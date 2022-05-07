@@ -1,0 +1,23 @@
+{
+  "name": "json-server-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json --port 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajP62/xyz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajP62/xyz/issues"
+  },
+  "homepage": "https://github.com/RajP62/xyz#readme"
+}
