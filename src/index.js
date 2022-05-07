@@ -1,0 +1,1 @@
+document.body.append(document.createElement("h1").innerText = "Hello");
